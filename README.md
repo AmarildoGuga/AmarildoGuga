@@ -1,3 +1,5 @@
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Amarildo. I do things sometimes!" src="./assets/gh-readme-header.png" /></a></p>
+
 <h1 align="center">~ 🫠 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 🫠 ~</h1>
 <!-- Add a giff or something fun here to welcome someone to my profile.
 ALso change the icons used by the website
