@@ -16,7 +16,7 @@ ALso change the icons used by the website
 <h2 align="center">            ~ 🍄 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 🍄 ~</h2>
 
 <h3>👨‍💻 Programming and Markup Languages</h3>
-<p align="left"> 
+<p align="center"> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a> <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="matlab" width="50" height="50"/> </a> <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" alt="latex" width="50" height="50"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> 
   
 <h3>🧰 Frameworks and Libraries</h3>
