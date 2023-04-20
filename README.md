@@ -2,7 +2,8 @@
 <!-- Add a giff or something fun here to welcome someone to my profile.
 ALso change the icons used by the website
 -->
-<img src="https://giphy.com/embed/AFdcYElkoNAUE" width="480" height="272" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cute-pokemon-AFdcYElkoNAUE">via GIPHY</a></p>
+TESTING <img src="![image](https://user-images.githubusercontent.com/98668593/233422614-ff3afcf6-35bf-407c-a2a3-0f7b14165949.png)" width="480" height="272" frameBorder="0" class="giphy-embed" align="right"/>
+
 
 
 <h2 align="center"> 🐻 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🐻 </h2>
