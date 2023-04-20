@@ -2,7 +2,7 @@
 <!-- Add a giff or something fun here to welcome someone to my profile.
 ALso change the icons used by the website
 -->
-TESTING <img src="![image](https://user-images.githubusercontent.com/98668593/233422614-ff3afcf6-35bf-407c-a2a3-0f7b14165949.png)" width="480" height="272" frameBorder="0" class="giphy-embed" align="right"/>
+TESTING <img src="![giphy](https://user-images.githubusercontent.com/98668593/233422911-18cbed47-d714-448a-b5ff-89c6a0374085.gif)" width="480" height="272" frameBorder="0" class="giphy-embed" align="center"/>
 
 
 
