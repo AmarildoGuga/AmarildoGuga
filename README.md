@@ -15,27 +15,31 @@ ALso change the icons used by the website
 
 <h2 align="center">            ~ 🍄 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 🍄 ~</h2>
 
-<h3>👨‍💻 Programming and Markup Languages</h3>
+<h3 align="center"> 👨‍💻 Programming and Markup Languages</h3>
+
 <p align="center"> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a> <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="matlab" width="50" height="50"/> </a> <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" alt="latex" width="50" height="50"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> 
- 
- <p align="center">  
-<h3>🧰 Frameworks and Libraries</h3>
+</p>
+
+<h3 align="center"> 🧰 Frameworks and Libraries</h3>
+
+<p align="center"> 
 <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="Tensorflow" width="50" height="50"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50"/>
+ </p>
   
- <p align="center">  
- <h3>💻 Software and Tools</h3>
+ <h3 align="center"> 💻 Software and Tools</h3>
+ 
+ <p align="center"> 
   <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
   <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
-  
  </p>
  
  
 <h2 align="center">           ☎️ ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ ☎️</h2>
 
 <p align="center"> 
-<a href="https://linkedin.com/in/AmarildoGuga" target="blank"><img align="center" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true" alt="courtney-stow-178b8696" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/AmarildoGuga" target="blank"> <img align="center" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true" alt="courtney-stow-178b8696" height="40" width="40" /></a>
 
 <h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
 
