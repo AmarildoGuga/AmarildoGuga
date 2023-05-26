@@ -1,12 +1,4 @@
-<h1 align="center">~ 🫠 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 🫠 ~</h1>
-<!-- Add a giff or something fun here to welcome someone to my profile.
-ALso change the icons used by the website
--->
-TESTING <img src="![giphy](https://user-images.githubusercontent.com/98668593/233422911-18cbed47-d714-448a-b5ff-89c6a0374085.gif)" width="480" height="272" frameBorder="0" class="giphy-embed" align="center"/>
-
-
-
-<h2 align="center"> 🐻 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🐻 </h2>
+<h2 align="center"> 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮  </h2>
 
 - 🌱  Msc from Imperial College London in Advanced Aeronautical Engineering
 - 🌳  BEng (Hons) from The Univeristy of Surrey in Aerospace Engineering
@@ -14,7 +6,7 @@ TESTING <img src="![giphy](https://user-images.githubusercontent.com/98668593/23
 - 🥅  Goal: Is to head into ML Engineering and potentially become a data scientist
 - ⚡  Fun facts: I enjoy going ice skating ⛸️ Digital art 🖌️ playing video games 🎮
 
-<h2 align="center">            ~ 🍄 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 🍄 ~</h2>
+<h2 align="center"> 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 </h2>
 
 <h3> 👨‍💻 Programming and Markup Languages</h3>
 
@@ -37,12 +29,12 @@ TESTING <img src="![giphy](https://user-images.githubusercontent.com/98668593/23
  </p>
  
  
-<h2 align="lenter">           ☎️ ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ ☎️</h2>
+<h2 align="center"> 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮</h2>
 
-<p align="lenter"> 
+<p align="center"> 
 <a href="https://linkedin.com/in/AmarildoGuga" target="blank"> <img align="center" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true" alt="courtney-stow-178b8696" height="40" width="40" /></a>
 
-<h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
+<h2 align="center"> 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰!</h2>
 
 
 ![LinkedIn Data](https://user-images.githubusercontent.com/98668593/233401754-902cf9c6-ef41-4168-b869-ec34fae7adfb.png)
