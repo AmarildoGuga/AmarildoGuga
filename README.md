@@ -2,7 +2,7 @@
 
 - 🌱  Msc from Imperial College London in Advanced Aeronautical Engineering
 - 🌳  BEng (Hons) from The Univeristy of Surrey in Aerospace Engineering
-- 🔭  I am currently training to be a Data Engineering Consulant at [Xander Talent] (https://www.xandertalent.com/)
+- 🔭  I am currently training to be a Data Engineering
 - 🥅  Goal: Is to head into ML Engineering and potentially become a data scientist
 - ⚡  Fun facts: I enjoy going ice skating ⛸️ Digital art 🖌️ playing video games 🎮
 
@@ -35,9 +35,6 @@
 <a href="https://linkedin.com/in/AmarildoGuga" target="blank"> <img align="center" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true" alt="courtney-stow-178b8696" height="40" width="40" /></a>
 
 <h2 align="center"> 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰!</h2>
-
-
-![LinkedIn Data](https://user-images.githubusercontent.com/98668593/233401754-902cf9c6-ef41-4168-b869-ec34fae7adfb.png)
 
 
 <!--
